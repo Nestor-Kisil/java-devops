@@ -1,4 +1,4 @@
-name: Sonar
+name: Sonar-devops
 on:
   workflow_dispatch:
   push:
